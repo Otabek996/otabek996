@@ -3,6 +3,8 @@
 I'm a Frontend developer 🧑‍💻 building with React and TypeScript.
 My [Profile](https://otabek996.github.io/responsive-to-website/).
 
+<img align="right" alt="My top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otabek996&theme=github_dark&show_icons=true&layout=compact&border_color=21262d&border_radius=6"/>
+
 ## Skills
 #### The tech I use for building client-side applications:
 <div>

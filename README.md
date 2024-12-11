@@ -6,7 +6,7 @@ My [Profile](https://otabek996.github.io/responsive-to-website/).
 <img align="right" alt="My top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otabek996&theme=github_dark&show_icons=true&layout=compact&border_color=21262d&border_radius=6"/>
 
 ## TECH I 🫀
-###### 1  
+###### #1  
 <div>
   <img align="top" title="HTML" alt="Html" width="40px" src="https://skillicons.dev/icons?i=html" />
   <img align="top" title="CSS" alt="Css" width="40px" src="https://skillicons.dev/icons?i=css" />
@@ -23,7 +23,7 @@ My [Profile](https://otabek996.github.io/responsive-to-website/).
 </div>
 
 
-###### 2 
+###### #2 
 <div>
   <img align="top" title="NodeJS" alt="NodeJS" width="40px" src="https://skillicons.dev/icons?i=nodejs" />
   <img align="top" title="Express" alt="Express" width="40px" src="https://skillicons.dev/icons?i=express" />
@@ -32,7 +32,7 @@ My [Profile](https://otabek996.github.io/responsive-to-website/).
 </div>
 
 
-###### 3 
+###### #3 
 <div>
   <img align="top" title="GitHub" alt="GitHub" width="40px" src="https://skillicons.dev/icons?i=github" />
   <img align="top" title="GitLab" alt="GitLab" width="40px" src="https://skillicons.dev/icons?i=gitlab" />

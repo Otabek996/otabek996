@@ -40,6 +40,7 @@ My [Profile](https://otabek996.github.io/responsive-to-website/).
   <img align="top" title="Postman" alt="Postman" width="40px" src="https://skillicons.dev/icons?i=postman" />
   <img align="top" title="Netlify" alt="Netlify" width="40px" src="https://skillicons.dev/icons?i=netlify" />
   <img align="top" title="Vscode" alt="Vscode" width="40px" src="https://skillicons.dev/icons?i=vscode" />
-  <img align="top" title="Idea" alt="Idea" width="40px" src="https://skillicons.dev/icons?i=idea" />
+  <img align="top" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40px" src="https://skillicons.dev/icons?i=idea" />
+  <img align="top" title="WebStorm" alt="WebStorm" width="40px" src="https://skillicons.dev/icons?i=webstorm" />
   <img align="top" title="Figma" alt="Figma" width="40px" src="https://skillicons.dev/icons?i=figma" />
 </div>
